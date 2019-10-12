@@ -1,0 +1,15 @@
+item.tutorial.name=Item of the Tutorial
+item.tutorial_armor_helmet.name=Tutorial helmet
+item.tutorial_armor_chestplate.name=Tutorial chest plate
+item.tutorial_armor_leggings.name=Tutorial leggings
+item.tutorial_armor_boots.name=Tutorial boots
+item.tutorial_axe.name=Tutorial axe
+item.tutorial_hoe.name=Tutorial hoe
+item.tutorial_pickaxe.name=Tutorial pickaxe
+item.tutorial_shovel.name=Tutorial shovel
+item.tutorial_sword.name=Tutorial sword
+tile.tutorial_block.name=Tutorial block
+tile.tutorial_box.name=Tutorial box
+tile.tutorial_box=Tutorial box
+entity.tutorial_aggressive_mob.name=Aggressive mob of the tutorial
+itemGroup.tutorial_creative_tabs=Tutorial

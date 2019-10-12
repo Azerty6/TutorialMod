@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialmod",
+  "name": "Tutorial Mod",
+  "description": "This is a tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Teddy"],
+  "credits": "Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
